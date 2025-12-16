@@ -1,3 +1,4 @@
 # Will be updated incrementally
 spacy
 wikipedia-api
+scikit-learn
