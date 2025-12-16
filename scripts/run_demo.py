@@ -12,4 +12,4 @@ if __name__ == "__main__":
     evidence = retrieve_evidence(entities)
     print("\nRetrieved Evidence:")
     for e in evidence:
-        print("-", e["sentence"])
+        print("-", e)
