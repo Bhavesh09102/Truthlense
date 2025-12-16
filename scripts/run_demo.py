@@ -1,7 +1,7 @@
 from truthlense.claim.preprocess import preprocess_claim
 from truthlense.retrieval.ner import extract_entities
 from truthlense.retrieval.wikipedia import retrieve_evidence
-from truthlense.ranking.tfidf_ranker import rank_evidence
+from truthlense.ranking.sbert_ranker import rank_evidence
 from truthlense.verification.verifier import verify_claim
 
 
